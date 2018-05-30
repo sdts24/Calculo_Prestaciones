@@ -1,0 +1,11 @@
+C:\Users\sdts2\source\repos\calc_Prestaciones\calc_Prestaciones\bin\Debug\calc_Prestaciones.exe.config
+C:\Users\sdts2\source\repos\calc_Prestaciones\calc_Prestaciones\bin\Debug\calc_Prestaciones.exe
+C:\Users\sdts2\source\repos\calc_Prestaciones\calc_Prestaciones\bin\Debug\calc_Prestaciones.pdb
+C:\Users\sdts2\source\repos\calc_Prestaciones\calc_Prestaciones\obj\Debug\calc_Prestaciones.csprojResolveAssemblyReference.cache
+C:\Users\sdts2\source\repos\calc_Prestaciones\calc_Prestaciones\obj\Debug\calc_Prestaciones.Form1.resources
+C:\Users\sdts2\source\repos\calc_Prestaciones\calc_Prestaciones\obj\Debug\calc_Prestaciones.Properties.Resources.resources
+C:\Users\sdts2\source\repos\calc_Prestaciones\calc_Prestaciones\obj\Debug\calc_Prestaciones.csproj.GenerateResource.cache
+C:\Users\sdts2\source\repos\calc_Prestaciones\calc_Prestaciones\obj\Debug\calc_Prestaciones.csproj.CoreCompileInputs.cache
+C:\Users\sdts2\source\repos\calc_Prestaciones\calc_Prestaciones\obj\Debug\calc_Prestaciones.exe
+C:\Users\sdts2\source\repos\calc_Prestaciones\calc_Prestaciones\obj\Debug\calc_Prestaciones.pdb
+C:\Users\sdts2\source\repos\calc_Prestaciones\calc_Prestaciones\obj\Debug\calc_Prestaciones.muestraDatos.resources
